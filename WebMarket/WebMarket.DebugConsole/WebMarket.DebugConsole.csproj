@@ -57,7 +57,7 @@
       <Project>{24c800a6-db8d-447c-8997-eb1a51f75e1a}</Project>
       <Name>WebMarket.Data.Repository</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Vic.SuperS.Service\WebMarket.Service.csproj">
+    <ProjectReference Include="..\WebMarket.Service\WebMarket.Service.csproj">
       <Project>{37d860d9-97d2-43fa-ad98-8a49b4d64468}</Project>
       <Name>WebMarket.Service</Name>
     </ProjectReference>
